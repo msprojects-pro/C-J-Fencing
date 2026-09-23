@@ -1,0 +1,6 @@
+{
+  "name": "C&J Fencing Gardening",
+  "description": "Professional fencing, gardening, landscaping and outdoor maintenance services for complete garden transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
